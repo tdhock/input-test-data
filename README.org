@@ -1,0 +1,4 @@
+Input test data
+
+To test [[https://github.com/tdhock/PeakSegJoint][PeakSegJoint]], this repository contains a data set with labeled
+input/negative control samples.
