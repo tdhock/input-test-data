@@ -1,0 +1,2 @@
+chr11:47,389,198-47,394,834 noPeaks
+chr11:47,396,596-47,399,402 peakStart mono neutro
